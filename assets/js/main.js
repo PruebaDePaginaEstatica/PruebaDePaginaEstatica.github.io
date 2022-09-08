@@ -1,4 +1,4 @@
-axios.get('https://api.github.com/repos/Gestion-de-conocimiento/gestion_de_conocimiento/releases')
+axios.get('https://api.github.com/repos/PruebaDePaginaEstatica/PruebaDePaginaEstatica.github.io/releases')
 .then(function (response) {
     // handle success
 
