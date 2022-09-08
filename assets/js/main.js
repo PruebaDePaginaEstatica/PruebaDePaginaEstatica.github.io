@@ -37,7 +37,7 @@ axios.get('https://api.github.com/repos/PruebaDePaginaEstatica/PruebaDePaginaEst
     
 //descargas_doc
 
-axios.get('https://api.github.com/repos/Gestion-de-conocimiento/documentacion/releases')
+axios.get('https://api.github.com/repos/PruebaDePaginaEstatica/DocPagEstatica/releases')
 .then(function (response) {
     // handle success
 
