@@ -9,9 +9,9 @@ permalink: /descargas/
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js" integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-# Descargas
+# Descargas del proyecto y documentación
 
-<h1> Inicioo </h1>
+<h1> Inicio </h1>
 <script src="{{ base.url | prepend: site.url }}/assets/js/main.js"></script>
 <table style="width:100%">
     <tr>
