@@ -11,7 +11,7 @@ permalink: /descargas/
 
 # Descargas
 
-<h1> Inicio </h1>
+<h1> Inicioo </h1>
 <script src="{{ base.url | prepend: site.url }}/assets/js/main.js"></script>
 <table style="width:100%">
     <tr>
